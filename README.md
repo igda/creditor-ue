@@ -15,9 +15,9 @@ Setup
 Usage
 ===
 
-* Add the [Content/CreditsHUD.uasset] Blueprint to your scene
-* Modify the widget templates in [Content/WBP_Credits.uasset]
-* Create or modify entry formatting s in [Content/Formats]
+* Add the [Content/CreditsHUD.uasset](Content/CreditsHUD.uasset) Blueprint to your scene
+* Modify the widget templates in [Content/WBP_Credits.uasset](Content/WBP_Credits.uasset)
+* Create or modify entry formattings in [Content/Formats](Content/Formats)
 
 Additional Licenses
 ===

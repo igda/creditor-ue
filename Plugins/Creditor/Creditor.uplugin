@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Creditor",
+	"Description": "A simple utility for loading and displaying credits.",
+	"Category": "Other",
+	"CreatedBy": "Zak Whaley",
+	"CreatedByURL": "https://igda.org",
+	"DocsURL": "https://github.com/igda/creditor-ue",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/igda/creditor-ue",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Creditor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "CreditorEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}

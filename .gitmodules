@@ -1,0 +1,3 @@
+[submodule "Plugins/Creditor/Source/ThirdParty/rapidcsv"]
+	path = Plugins/Creditor/Source/ThirdParty/rapidcsv
+	url = git@github.com:d99kris/rapidcsv.git
